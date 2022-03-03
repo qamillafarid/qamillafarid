@@ -1,7 +1,7 @@
 <div align="center"> QAmilla Farid
   <br><br>
   <img height="180em" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/ca/ca3b8bce08f37a11ae6ce4c0a3305e5f540b7aa8_full.jpg" style="width:85px;height:85px;"/>
-   <img align="right" alt="Gandalf-Bugs" height="120" width="290" src="https://i.imgflip.com/67ab7v.jpg">
+   <img align="center" alt="Gandalf-Bugs" height="120" width="290" src="https://i.imgflip.com/67ab7v.jpg">
   </div>
     <br>
 <div align="center">
