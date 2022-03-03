@@ -14,7 +14,7 @@
     <img align="center" alt="Milla-RubyMine" height="50" width="50" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/rubymine.ico.png">
     <img align="center" alt="Milla-Jenkins" height="90" width="90" src="https://www.jenkins.io/images/logos/fire/fire.svg">
     <img align="center" alt="Milla-Cover" height="120" width="290" src="https://cdn.quotesgram.com/img/4/88/393331421-quote-program-testing-can-be-used-to-show-the-presence-of-bugs-but-never-to-show-their-absence-edsger-dijkstra-224478.jpg">
-     <img align="right" alt="Gandalf-Bugs" height="70" width="240" src="https://i.imgflip.com/67ab7v.jpg">
+     <img align="right" alt="Gandalf-Bugs" height="100" width="240" src="https://i.imgflip.com/67ab7v.jpg">
 </div>
   
   ##
